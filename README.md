@@ -196,9 +196,9 @@ The following preprocessing steps were performed:
 - Age Group Claim Trends
 - Interactive Filters & Slicers
 
-<p align="center">
-  <img src="images/dashboard.png" width="800">
-</p>
+![PRISM Insurance Dashboard](Images/dashboard.png)
+
+---
 
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
 
